@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "WE ARE YOUNG (Music Video)",
+  "base_artist": "I Don't Like Mondays.",
+  "createdAt": "2026-02-08T14:22:30.252265Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We Are Young (feat. Janelle Monáe)",
+      "artist": "Fun feat. Janelle Monáe",
+      "has_synced": true,
+      "path": "select/01_We_Are_Young_(feat._Janelle_Monáe)_Fun_feat._Janelle_Monáe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We Are Young",
+      "artist": "fun. feat. Janelle Monáe",
+      "has_synced": true,
+      "path": "select/02_We_Are_Young_fun._feat._Janelle_Monáe.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Are Young",
+      "artist": "3OH!3",
+      "has_synced": false,
+      "path": "select/03_We_Are_Young_3OH!3.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Are Young (Acoustic)",
+      "artist": "Little Mix",
+      "has_synced": true,
+      "path": "select/04_We_Are_Young_(Acoustic)_Little_Mix.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We Are Young (acoustic)",
+      "artist": "Little Mix",
+      "has_synced": false,
+      "path": "select/05_We_Are_Young_(acoustic)_Little_Mix.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "We Are Young",
+      "artist": "The Moffatts",
+      "has_synced": true,
+      "path": "select/06_We_Are_Young_The_Moffatts.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "We Are Young (Acoustic)",
+      "artist": "Little Mix",
+      "has_synced": true,
+      "path": "select/07_We_Are_Young_(Acoustic)_Little_Mix.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We Are Young - Edit",
+      "artist": "Juveniles",
+      "has_synced": false,
+      "path": "select/08_We_Are_Young_-_Edit_Juveniles.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We Are Young (feat. Janelle Monáe)",
+      "artist": "fun.",
+      "has_synced": true,
+      "path": "select/09_We_Are_Young_(feat._Janelle_Monáe)_fun..lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "We Are Young - (Live)",
+      "artist": "FUN",
+      "has_synced": true,
+      "path": "select/10_We_Are_Young_-_(Live)_FUN.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We Are Young",
+      "artist": "fun.",
+      "has_synced": true,
+      "path": "select/11_We_Are_Young_fun..lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "We Are Young (feat. Janelle Monáe)",
+      "artist": "fun./Janelle Monáe",
+      "has_synced": true,
+      "path": "select/12_We_Are_Young_(feat._Janelle_Monáe)_fun._Janelle_Monáe.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "We Are Young",
+      "artist": "Fun. (ft. Janelle Monáe)",
+      "has_synced": true,
+      "path": "select/13_We_Are_Young_Fun._(ft._Janelle_Monáe).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "We Are Young (feat. Janelle Monáe) - Alvin Risk Remix",
+      "artist": "fun.",
+      "has_synced": false,
+      "path": "select/14_We_Are_Young_(feat._Janelle_Monáe)_-_Alvin_Risk_Remix_fun..txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "We Are Young",
+      "artist": "Fun featuring Janelle Monáe",
+      "has_synced": false,
+      "path": "select/15_We_Are_Young_Fun_featuring_Janelle_Monáe.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "We Are Young (feat. Janelle Monae)",
+      "artist": "fun.",
+      "has_synced": true,
+      "path": "select/16_We_Are_Young_(feat._Janelle_Monae)_fun..lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Kick Ass (We Are Young)",
+      "artist": "MIKA vs. RedOne",
+      "has_synced": true,
+      "path": "select/17_Kick_Ass_(We_Are_Young)_MIKA_vs._RedOne.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WE ARE YOUNG",
+      "artist": "I Don't Like Mondays.",
+      "has_synced": false,
+      "path": "select/pl_01_WE_ARE_YOUNG_I_Don't_Like_Mondays..txt"
+    }
+  ]
+}
